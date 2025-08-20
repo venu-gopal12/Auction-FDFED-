@@ -2,6 +2,7 @@
 📌 Overview
 This is a real-time auction web application that allows users to bid on items dynamically, with role-based access for users, sellers, and administrators. It features real-time updates using WebSocket technology, a secure email verification process, and a clean architecture with separate front-end and back-end services.
 
+Live demo = "https://fdfed-iota.vercel.app/"
 🚀 Features
 👥 Users
 Browse available auction items.
